@@ -1,4 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
-    "jupyter.jupyterServerType": "local"
+    "jupyter.jupyterServerType": "local",
+    "editor.fontFamily": "Cascadia Code PL",
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "expand"
 }
