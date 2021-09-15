@@ -3,5 +3,5 @@
     "jupyter.jupyterServerType": "local",
     "editor.fontFamily": "Cascadia Code PL",
     "editor.fontSize": 16,
-    "editor.cursorBlinking": "expand"
+    "editor.cursorBlinking": "expand",
 }
